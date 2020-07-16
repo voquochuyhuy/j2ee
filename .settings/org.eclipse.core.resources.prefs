@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//WebContent/sidebar/Sidebar.jsp=UTF-8
+encoding//src/dao/DonHangDAO.java=UTF-8
+encoding//src/dao/KhachHangDAO.java=UTF-8
+encoding//src/dao/LoaiSanPhamDAO.java=UTF-8
+encoding//src/dao/NhaCungCapDAO.java=UTF-8
+encoding//src/dao/SanPhamDAO.java=UTF-8
+encoding//src/dao/ThongTinSanPhamDAO.java=UTF-8
